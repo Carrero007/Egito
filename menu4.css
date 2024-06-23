@@ -42,4 +42,7 @@
     line-height: 60px;
     margin-left: 5px;
     }
+    textarea {
+    resize: none;
+    }
     /* #conteudo { width: 400px; height: 300px;}*/
